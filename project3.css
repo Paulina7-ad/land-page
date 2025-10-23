@@ -1,0 +1,104 @@
+*{
+    margin: 0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    height: 100vh;
+    background: linear-gradient(to bottom, #e602e6, #03f5fd);
+    justify-content: center;
+    align-items: center;
+    display: flex; 
+    
+    
+ }
+ .Main-container{
+       background: linear-gradient(to bottom, #d10cd1, #03f5fd);
+        justify-content: center;
+        text-align: center;
+        margin: 0px;
+        width: 1000px;
+        border-radius: 16px;
+        padding: 0 40px 40px 40px ;
+        
+        
+ }
+ .container{
+        text-align: center;
+        margin-top: 1px;
+         
+
+ }
+
+ .container h1{
+    font-size: 50px;
+    font: bold;
+    margin-bottom: 70px;
+    text-align: center;
+    color: white;
+    
+ }
+
+.profile-pic1 {
+  width: 155px;
+  height: 155px;  
+  border-radius: 100%;
+  box-shadow: 0 4px 8px rgba(126, 108, 108, 0.3);
+  margin-right: 117px;
+  margin-bottom: 60px;
+  margin-left: 20px;
+  
+
+  }
+  .Main-container-1{
+      /* background-color: rgb(235, 226, 226); */
+      display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: px;
+        border-radius: 12px;
+         margin-left: px;
+        
+        ;
+  }
+  .container-1{
+   margin-right: 50px;
+   width: 350px;
+   background-color: white;
+   border-radius: 12px;
+  }
+
+  .container-1 h2{
+   color: rgb(7, 0, 0);
+   text-align: center;
+
+  }
+  .container-1 h3{
+   color: rgb(211, 6, 184);
+   text-align: center;
+   font-size: smaller;
+  }
+
+  .STARS{
+   width: 90px;
+ 
+  }
+  
+  
+  .container-1 p{
+   color: rgb(51, 65, 60);
+   font-size: smaller;
+   text-align: center;
+  }
+   
+  footer{
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    color: #2e2020; 
+    text-align: center;
+
+  }
