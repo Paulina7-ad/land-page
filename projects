@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CodingNepal - MObile App Development</title>
+    <link rel="stylesheet" href="project1.css">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="header">CodingNepal</div>
+
+            <ul class="menu">
+                <li><a href="#" class="Home">Home</a></li>
+                <li><a href="#">About us</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Portfolio</a></li>
+                 <li><a href="#">Contact us</a></li>
+            </ul>
+
+            <div class="btn">
+                <button type="submit" class="Btn-1">Sign In</button>
+                <button type="submit" class="Btn-2">Sign Up</button>
+            </div>
+            </nav>
+        </header>
+
+
+         <section class="hero">
+            <div class="hero-text">
+                <h1>Mobile App Development</h1>
+                <p>join us in the exciting world of programming and turn your ideas 
+                    into reality.
+                    unlock the world of endless possibilities - learn to code and shape the digital future with us.</p>
+
+             <div class="Container-1">
+                <button type="submit" class="Btn-3">Join Now</button>
+                <button type="submit" class="Btn-4">Learn More</button>
+             </div>       
+
+        </div>
+        
+        <div class="hero-image">
+            <img src="images/IMG-20250817-WA0060.png" alt="Mobile App Development" class="img-1">
+        </div>
+        
+            
+         </section>
+
+
+    
+</body>
+</html>
